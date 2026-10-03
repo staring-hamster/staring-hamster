@@ -1,5 +1,3 @@
-## Full time fox. 🦊
-
 <!--
 **staring-hamster/staring-hamster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
